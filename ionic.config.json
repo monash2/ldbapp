@@ -1,0 +1,8 @@
+{
+  "name": "ldbapp",
+  "app_id": "4007734b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
